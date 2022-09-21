@@ -1,0 +1,2282 @@
+[
+    {
+        "Name": "Dwarf Scroll I",
+        "Sources": [
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.16"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.16"
+            ],
+            [
+                "Drop",
+                "Bat",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Bug",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Cave Fly",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Duggy",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Green Slime",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Grub",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Rock Crab",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Stone Golem",
+                "0.5"
+            ]
+        ]
+    },
+    {
+        "Name": "Dwarf Scroll II",
+        "Sources": [
+            [
+                "Tilling",
+                "Mines 1-40",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Ghost",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Frost Bat",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Dust Sprite",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Blue Slime",
+                "0.5"
+            ]
+        ]
+    },
+    {
+        "Name": "Dwarf Scroll III",
+        "Sources": [
+            [
+                "Drop",
+                "Blue Slime",
+                "1.5"
+            ],
+            [
+                "Drop",
+                "Red Slime",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Purple Slime",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Copper Slime",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Iron Slime",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Tiger Slime",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Lava Bat",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Lava Crab",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Squid Kid",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Shadow Brute",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Shadow Shaman",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Metal Head",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Spider",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Blue Squid",
+                "0.5"
+            ]
+        ]
+    },
+    {
+        "Name": "Dwarf Scroll IV",
+        "Sources": [
+            [
+                "Tilling",
+                "Mines 80-120",
+                "0.2"
+            ],
+            [
+                "Drop",
+                "Any Monster (except: Serpent, Skeleton, Wilderness Golem, Carbon Ghost, Iridium Bat, Iridium Crab, or Haunted Skull)",
+                "0.1"
+            ]
+        ]
+    },
+    {
+        "Name": "Chipped Amphora",
+        "Sources": [
+            [
+                "Tilling",
+                "Town",
+                "3"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Arrowhead",
+        "Sources": [
+            [
+                "Tilling",
+                "Mountain",
+                "1.6"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "1.6"
+            ],
+            [
+                "Tilling",
+                "Bus Stop",
+                "1.6"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Ancient Doll",
+        "Sources": [
+            [
+                "Tilling",
+                "Mountain",
+                "3"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "2.4"
+            ],
+            [
+                "Tilling",
+                "Bus Stop",
+                "2.4"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ],
+            [
+                "Other",
+                "Feast of the Winter Star (Jas or Vincent)",
+                "Jas,Vincent"
+            ]
+        ]
+    },
+    {
+        "Name": "Elvish Jewelry",
+        "Sources": [
+            [
+                "Tilling",
+                "Forest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Chewing Stick",
+        "Sources": [
+            [
+                "Tilling",
+                "Mountain",
+                "1.5"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "1.5"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Duggy",
+                "2"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Ornamental Fan",
+        "Sources": [
+            [
+                "Tilling",
+                "Beach",
+                "1.6"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Dinosaur Egg",
+        "Sources": [
+            [
+                "Tilling",
+                "Mountain",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Pepper Rex",
+                "10"
+            ],
+            [
+                "Other",
+                "Forage (Skull Cavern prehistoric floor)",
+                "n/a"
+            ]
+        ]
+    },
+    {
+        "Name": "Rare Disc",
+        "Sources": [
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Bat",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Frost Bat",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Lava Bat",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Shadow Brute",
+                "0.3"
+            ],
+            [
+                "Drop",
+                "Shadow Shaman",
+                "0.3"
+            ],
+            [
+                "Drop",
+                "Spider",
+                "0.3"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Ancient Sword",
+        "Sources": [
+            [
+                "Tilling",
+                "Forest",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Rusty Spoon",
+        "Sources": [
+            [
+                "Tilling",
+                "Town",
+                "4"
+            ],
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.16"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.16"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Rusty Spur",
+        "Sources": [
+            [
+                "Tilling",
+                "Farm",
+                "10"
+            ],
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.16"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.16"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Rusty Cog",
+        "Sources": [
+            [
+                "Tilling",
+                "Mountain",
+                "4"
+            ],
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.16"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.16"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Chicken Statue",
+        "Sources": [
+            [
+                "Tilling",
+                "Farm",
+                "9"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Ancient Seed",
+        "Sources": [
+            [
+                "Tilling",
+                "Forest",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "0.7"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Bug",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Cave Fly",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Grub",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Mutant Fly",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Mutant Grub",
+                "0.5"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Tool",
+        "Sources": [
+            [
+                "Tilling",
+                "Bus Stop",
+                "3"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "2.1"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "2"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Dried Starfish",
+        "Sources": [
+            [
+                "Tilling",
+                "Beach",
+                "8"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Anchor",
+        "Sources": [
+            [
+                "Tilling",
+                "Beach",
+                "4"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Glass Shards",
+        "Sources": [
+            [
+                "Tilling",
+                "Beach",
+                "7"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Bone Flute",
+        "Sources": [
+            [
+                "Tilling",
+                "Forest",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.4"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Handaxe",
+        "Sources": [
+            [
+                "Tilling",
+                "Bus Stop",
+                "4"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "3"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "3"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Dwarvish Helm",
+        "Sources": [
+            [
+                "Tilling",
+                "Mines 1-40",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Geode",
+                "3"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "1"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Dwarf Gadget",
+        "Sources": [
+            [
+                "Tilling",
+                "Mines 41-80",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Magma Geode",
+                "4"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "1"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Ancient Drum",
+        "Sources": [
+            [
+                "Tilling",
+                "Bus Stop",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "0.7"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.4"
+            ],
+            [
+                "Drop",
+                "Frozen Geode",
+                "3"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "1"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Golden Mask",
+        "Sources": [
+            [
+                "Tilling",
+                "Desert",
+                "3"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Golden Relic",
+        "Sources": [
+            [
+                "Tilling",
+                "Desert",
+                "6"
+            ],
+            [
+                "Drop",
+                "Artifact Trove",
+                "3.7"
+            ]
+        ]
+    },
+    {
+        "Name": "Strange Doll (green)",
+        "Sources": [
+            [
+                "Tilling",
+                "Farm",
+                "0.08"
+            ],
+            [
+                "Tilling",
+                "Bus Stop",
+                "0.07"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.07"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "0.06"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "0.06"
+            ],
+            [
+                "Tilling",
+                "Beach",
+                "0.06"
+            ],
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.03"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.03"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.14"
+            ],
+            [
+                "Other",
+                "Secret Note #17",
+                "n/a"
+            ]
+        ]
+    },
+    {
+        "Name": "Strange Doll (yellow)",
+        "Sources": [
+            [
+                "Tilling",
+                "Farm",
+                "0.08"
+            ],
+            [
+                "Tilling",
+                "Bus Stop",
+                "0.07"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.07"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "0.06"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "0.06"
+            ],
+            [
+                "Tilling",
+                "Beach",
+                "0.06"
+            ],
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.03"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.03"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "0.14"
+            ],
+            [
+                "Other",
+                "Secret Note #18",
+                "n/a"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Scapula",
+        "Sources": [
+            [
+                "Tilling",
+                "Forest",
+                "3"
+            ],
+            [
+                "Tilling",
+                "Town",
+                "0.7"
+            ],
+            [
+                "Drop",
+                "Skeleton",
+                "0.5"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Tibia",
+        "Sources": [
+            [
+                "Tilling",
+                "Railroad",
+                "4"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Pepper Rex",
+                "30"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Skull",
+        "Sources": [
+            [
+                "Tilling",
+                "Mountain",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Haunted Skull",
+                "1.3"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Skeletal Hand",
+        "Sources": [
+            [
+                "Tilling",
+                "Backwoods",
+                "4"
+            ],
+            [
+                "Tilling",
+                "Beach",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Haunted Skull",
+                "1.3"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Rib",
+        "Sources": [
+            [
+                "Tilling",
+                "Town",
+                "2.2"
+            ],
+            [
+                "Tilling",
+                "Farm",
+                "0.8"
+            ],
+            [
+                "Drop",
+                "Pepper Rex",
+                "30"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Prehistoric Vertebra",
+        "Sources": [
+            [
+                "Tilling",
+                "Bus Stop",
+                "0.7"
+            ],
+            [
+                "Drop",
+                "Pepper Rex",
+                "30"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Skeletal Tail",
+        "Sources": [
+            [
+                "Tilling",
+                "Mines 1-120",
+                "0.16"
+            ],
+            [
+                "Tilling",
+                "Skull Cavern",
+                "0.16"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "3.1"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Nautilus Fossil",
+        "Sources": [
+            [
+                "Tilling",
+                "Beach",
+                "1.8"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "3.1"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Amphibian Fossil",
+        "Sources": [
+            [
+                "Tilling",
+                "Forest",
+                "0.6"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "3.1"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Palm Fossil",
+        "Sources": [
+            [
+                "Tilling",
+                "Desert",
+                "7"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "0.6"
+            ],
+            [
+                "Tilling",
+                "Beach",
+                "0.6"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Trilobite",
+        "Sources": [
+            [
+                "Tilling",
+                "Beach",
+                "1.7"
+            ],
+            [
+                "Tilling",
+                "Forest",
+                "1.9"
+            ],
+            [
+                "Tilling",
+                "Mountain",
+                "1.8"
+            ],
+            [
+                "Drop",
+                "Bone Node",
+                "0.8"
+            ]
+        ]
+    },
+    {
+        "Name": "Quartz",
+        "Sources": [
+            [
+                "Drop",
+                "Stone Golem",
+                "10"
+            ],
+            [
+                "Other",
+                "Forage (Mines 1-120)",
+                ""
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Earth Crystal",
+        "Sources": [
+            [
+                "Drop",
+                "Duggy",
+                "10"
+            ],
+            [
+                "Drop",
+                "Haunted Skull",
+                "1.3"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Mines 1-39)",
+                "n/a"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Frozen Tear",
+        "Sources": [
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Dust Sprite",
+                "2"
+            ],
+            [
+                "Other",
+                "Forage (Mines 40-79)",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Fire Quartz",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Mines 80-120)",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Emerald",
+        "Sources": [
+            [
+                "Drop",
+                "Emerald Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ],
+            [
+                "Other",
+                "Feast of the Winter Star (any adult except Clint, Evelyn, Marnie, Robin, or Willy)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Aquamarine",
+        "Sources": [
+            [
+                "Drop",
+                "Aquamarine Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Ruby",
+        "Sources": [
+            [
+                "Drop",
+                "Ruby Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ],
+            [
+                "Other",
+                "Feast of the Winter Star (any adult except Clint, Evelyn, Marnie, Robin, or Willy)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Amethyst",
+        "Sources": [
+            [
+                "Drop",
+                "Amethyst Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Drop",
+                "Green Slime",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Topaz",
+        "Sources": [
+            [
+                "Drop",
+                "Topaz Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Jade",
+        "Sources": [
+            [
+                "Drop",
+                "Jade Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Drop",
+                "Blue Slime",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ],
+            [
+                "Other",
+                "Feast of the Winter Star (any adult except Clint, Evelyn, Marnie, Robin, or Willy)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Diamond",
+        "Sources": [
+            [
+                "Drop",
+                "Diamond Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Gem Node",
+                "?"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Drop",
+                "Any monster after reaching Mines 120",
+                "0.05"
+            ],
+            [
+                "Other",
+                "Panning",
+                "?"
+            ],
+            [
+                "Other",
+                "Forage (Garbage Can)",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Prismatic Shard",
+        "Sources": [
+            [
+                "Drop",
+                "Iridium Node",
+                "4"
+            ],
+            [
+                "Drop",
+                "Mystic Stone",
+                "25"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "0.4"
+            ],
+            [
+                "Drop",
+                "Shadow Brute",
+                "0.05"
+            ],
+            [
+                "Drop",
+                "Shadow Shaman",
+                "0.05"
+            ],
+            [
+                "Drop",
+                "Mummy",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Serpent",
+                "0.1"
+            ],
+            [
+                "Drop",
+                "Fishing Chest",
+                "?"
+            ],
+            [
+                "Drop",
+                "Any monster after reaching Mines 120",
+                "0.05"
+            ]
+        ]
+    },
+    {
+        "Name": "Tigerseye",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Opal",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Fire Opal",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Alamite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Bixite",
+        "Sources": [
+            [
+                "Drop",
+                "Black Slime",
+                "?"
+            ],
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Baryte",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Aerinite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Calcite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Dolomite",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Esperite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Fluorapatite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Geminite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Helvite",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Jamborite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Jagoite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Kyanite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Lunarite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Malachite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Neptunite",
+        "Sources": [
+            [
+                "Drop",
+                "Black Slime",
+                "?"
+            ],
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Lemon Stone",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Nekoite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Orpiment",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Petrified Slime",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Slime Ball",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Thunder Egg",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Pyrite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Ocean Stone",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Ghost Crystal",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Jasper",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Celestine",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Marble",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Sandstone",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Granite",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Basalt",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Limestone",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Soapstone",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Hematite",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Mudstone",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Obsidian",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Slate",
+        "Sources": [
+            [
+                "Drop",
+                "Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Fairy Stone",
+        "Sources": [
+            [
+                "Drop",
+                "Frozen Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    },
+    {
+        "Name": "Star Shards",
+        "Sources": [
+            [
+                "Drop",
+                "Magma Geode",
+                "?"
+            ],
+            [
+                "Drop",
+                "Omni Geode",
+                "?"
+            ]
+        ]
+    }
+]
