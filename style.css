@@ -86,4 +86,9 @@ body {
     opacity: 25%;
 }
 
+footer {
+    text-align: center;
+    color: white;
+}
+
 @media screen and (max-width: 768px) {}
