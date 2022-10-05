@@ -75,9 +75,7 @@ function genLocationsList() {
     itemArray.forEach(element => {
         span = document.createElement('span');
         locations.appendChild(span);
-
         span.appendChild(document.createTextNode(element));
         locations.appendChild(document.createElement('br'));
     })
-
 }
