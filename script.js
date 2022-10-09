@@ -1,3 +1,6 @@
+const visCount = document.getElementById('visCount');
+updateSiteCounter();
+
 var museumItems;
 
 function itemGen() {
@@ -78,4 +81,12 @@ function genLocationsList() {
         span.appendChild(document.createTextNode(element));
         locations.appendChild(document.createElement('br'));
     })
+}
+
+function updateSiteCounter() {
+    fetch('https://api.countapi.xyz/hit/regularwave_SV-Donation-Location-Finder')
+        .then(response => response.json())
+        .then(response => {
+            visCount.innerHTML = response.value;
+        })
 }
